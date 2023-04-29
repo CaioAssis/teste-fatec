@@ -2,3 +2,6 @@ $ git init
 $ git status
 $ git add arquivo_teste.txt
 $ git add .
+$ git commit -m "adiciona arquivo arquivo_teste.txt"
+$ git log
+$ git restore arquivo_teste.txt
